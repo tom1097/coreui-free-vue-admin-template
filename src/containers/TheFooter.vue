@@ -1,5 +1,5 @@
 <template>
-  <CFooter :fixed="false">
+  <CFooter :fixed="true">
     <div>
       <a href="https://coreui.io" target="_blank">CoreUI</a>
       <span class="ml-1">&copy; {{new Date().getFullYear()}} creativeLabs.</span>
